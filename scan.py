@@ -1,6 +1,4 @@
-# from pyzbar import pyzbar
 import argparse
-# import cv2
 import openfoodfacts
 from PIL import Image
 import requests
